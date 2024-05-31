@@ -1,0 +1,11 @@
+Barrio,Renta
+el poblado i,12100000.0
+san lucas el poblado,9500000.0
+la intermedia,9500000.0
+el poblado el tesoro,9000000.0
+san fernando plaza,8900000.0
+las lomas 1,7833333.333333333
+poblado los balsos 2,7550000.0
+medellín,7506250.0
+visitación,7500000.0
+la visitacion,7000000.0

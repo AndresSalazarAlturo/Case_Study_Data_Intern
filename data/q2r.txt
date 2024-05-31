@@ -1,0 +1,926 @@
+barrio,Arriendo
+la milagrosa,6
+oviedo,32
+castropol,243
+el poblado,412
+florida nueva,29
+conquistadores,74
+aguacatala,25
+los parra,32
+poblado,208
+patio bonito,118
+santa m de los angeles,72
+manila,13
+loma los gonzalez,63
+san lucas,81
+la tomatera,21
+belen aliadas,2
+la florida,27
+los balsos,190
+los colores,76
+la linde,22
+el diamante,14
+el campestre,47
+alejandria,58
+medellin,167
+belen miravalle,4
+belen buena vista,1
+loma de los bernal,59
+belen las playas,1
+belen parque,6
+laureles,265
+la castellana,82
+belen rosales,46
+12 de octubre,5
+rodeo alto,26
+calasanz,183
+el salvador,17
+salvador,5
+transv inferior,23
+san javier,33
+belen la gloria,3
+san lucas poblado,1
+belen la nubia,1
+los naranjos,7
+belen,50
+provenza,23
+santa monica,26
+guayabal,23
+el tesoro,128
+loma de los parra,10
+boston,27
+transversal inferior,3
+santa lucia,19
+velodromo,20
+robledo,193
+la frontera,36
+malibu,1
+santa maria de los angeles,37
+suramericana,13
+santa monica,13
+alejandria,13
+belen,48
+carlos e restrepo,2
+belen los alpes,7
+la calera,56
+la aguacatala,16
+santa maria de los angeles,30
+la mota,9
+poblado santa maria de los angeles,7
+la inferior,8
+inferior con las palmas,1
+belen la palma,27
+ciudad del rio,32
+seleccione,3
+rosales,4
+san joaquin,11
+centro de la ciudad,3
+loma del campestre,15
+belen fatima,9
+visitacion,1
+milla de oro,28
+poblado la calera,7
+alameda,3
+las santas,25
+las palmas,85
+loma de san julian,14
+poblado el guamal,1
+san lucas el poblado,1
+cola del zorro,6
+la candelaria,4
+vizcaya,23
+la floresta,23
+poblado vizcaya,2
+simon bolivar,12
+aranjuez,15
+villa hermosa,10
+las lomas,27
+el velodromo,2
+floresta sta lucia,1
+robledo kenedy,1
+belen alameda,1
+floresta,12
+estadio,27
+buenos aires,39
+la concha,16
+belen los alpes,3
+altos del poblado,52
+lalinde,32
+el poblado castropol,8
+loma televida,6
+alfonso lopez,3
+las lomas 1,3
+poblado castropol,5
+barrio santa fe,1
+los pinos,1
+loma de los gonzalez,35
+trinidad,3
+calazans,2
+manrique,12
+ciudad del rio,43
+santa lucia,9
+vegas del poblado,2
+santa teresita,2
+poblado la florida,1
+el velodromo,11
+poblado san lucas,3
+la america,13
+prado centro,7
+belen las acacias,1
+loma lalinde,2
+envigado,4
+poblado el tesoro,6
+manrique central,11
+el castillo,5
+lleras,1
+simon bolivar,31
+benedictinos,1
+belen rodeo alto,1
+santafe,1
+la visitacin,2
+el diamante 2,2
+bolivariana,1
+barrio colombia,3
+poblado altos delpoblado,1
+zuñiga,3
+laureles occidente,2
+loma de las brujas,1
+la loma del indio,26
+poblado provenza,1
+los gonzalez,3
+astorga,10
+la intermedia,1
+castropol poblado,1
+prado ,9
+loma san julian,3
+castilla,8
+alejandria poblado,1
+poblado altos del poblado,1
+el nogal,5
+loma de los parras,1
+nan,0
+san fernando plaza,1
+el country,2
+poblado milla de oro,1
+la america,25
+el poblado i,1
+loma benedictinos,1
+los balsos 1,4
+el estadio,2
+poblado campestre,2
+san julian,1
+belen rincon,4
+florencia,1
+la pilarica,46
+san german,5
+tricentenario,3
+belen aliadas,1
+poblado los balsos 2,2
+belen la gloria,2
+robledo palenque,2
+robledo pajarito,9
+calasania,1
+lopez de mesa,3
+america,4
+la almeria,5
+pajarito,7
+robledo la campiña,11
+san german,38
+el rodeo,3
+campo amor,4
+las mercedes,1
+20 de julio,2
+belen porvenir,1
+loma del indio,35
+suroccidental santa fe,1
+belen san bernardo,4
+san antonio de prado,20
+el poblado ciudad del rio,1
+cordoba,7
+belen las playas,4
+la colina,1
+enciso,2
+san diego,18
+belen la mota,1
+belen alameda,1
+el danubio,3
+cristo rey,10
+san pablo,6
+prado,7
+andalucia,1
+san cristobal,5
+belen rincon,3
+las vegas,3
+vereda la esperanza,1
+pilarica,1
+barrio cristobal,10
+bello,7
+chimeneas,1
+manrique oriental,1
+granada,1
+la pradera,3
+el pesebre,1
+loma del encierro,4
+cordoba noroccidente,1
+la palma,14
+villa carlota,1
+santa fe,5
+loma el encierro,3
+barrio cristobal,6
+cristorey,3
+4 rosales belen la mota guayabal itagui la estrella,1
+bello horizonte,3
+barrio cordoba,1
+las violetas,1
+trapiche,1
+san antonio del prado,6
+el poblado campestre,1
+las granjas,2
+aliadas,1
+villanueva,1
+lopez de mesa,1
+urbanizacion plaza mayorca itagi,1
+la estrella,1
+belen las mercedes,3
+los bernal,1
+santa elena,1
+san bernardo,7
+el retiro,1
+almeria,1
+santander,1
+laureles estadio,1
+la gloria,3
+poblado manila,2
+america niza,2
+el salado,1
+castellana,5
+campo valdes,13
+bombona,4
+maria auxiliadora,1
+bombona,6
+poblado patio bonito,3
+el naranjal,2
+medellin,9
+los alpes,4
+poblado las loma 2,1
+poblado la aguacatala,2
+la nubia,1
+las acacias,2
+laureles nogal,3
+barrio santafe,4
+transv superior,2
+florida,3
+belen loma de los bernal,1
+sabaneta,2
+lomas del escobero,1
+el chagualo,2
+la doctora,1
+el poblado loma del indio,3
+camino verde,1
+loma del escobero,3
+loma del inidio,3
+el dorado,1
+la loma de los bernal,1
+conquistadores medellin,1
+malibu,1
+las palmas intercontinental country club el poblado,1
+sevilla,2
+santa rosa de lima,1
+boyaca las brisas,1
+loma los bernal,1
+belen rosales,5
+los balsos nro 1,1
+acevedo,2
+santa monica 1,2
+barrio antioquia,2
+barrio san diego,1
+chagualo,1
+2 poblado envigado sabaneta san diego las palmas itagui la estrella,2
+el piñal,1
+belen malibu,2
+poblado san julian,1
+loma marianito,3
+poblado oviedo,1
+belen mira valle,1
+transversal superior,1
+nuevos conquistadores,1
+fatima,2
+zuiga,2
+poblado loma los gonzalez,2
+loma de los balsos,1
+barrio las palmas,1
+la visitacion,2
+belen granada,1
+los balsos nro 2,1
+la visitacion,1
+el poblado el tesoro,1
+medellin conquistadores,1
+asomadera,1
+castropol lv,1
+medellin laureles santa gema,1
+caribe,1
+aures,1
+obrero,1
+la pastora,1
+caicedo,1
+seminario,1
+pedregal,3
+el rincon,1
+barrio santa fe,3
+bombona 1,1
+barichara san antonio de prado,1
+san juan,1
+el vergel,1
+lorena,1
+belen san bernardo,2
+santa fe,7
+robledo la aurora,1
+belen parque,1
+la chacona,2
+santa fe guayabal,1
+la pola,1
+lovaina,1
+la pilanca,1
+san cristobal,1
+calasanz parte alta,1
+belen las mercedes,1
+villa nueva,2
+poblado los balsos 1,1
+villa hermosa los angeles,2
+belen altavista,1
+bulerias,0
+belen fatima,0
+el diamante nro 2,0
+laureles el nogal,0
+la 10,0
+belen la mota,0
+loma los gonzales poblado,0
+las brujas,0
+lorena laureles,0
+b laureles,0
+nueva villa del aburra,0
+poblado suroriente,0
+conquistadores occidente,0
+pilarica ii,0
+kennedy,0
+poblado santa maria de los angeles,0
+sur oriente poblado,0
+girardot,0
+poblado la toja,0
+la frontera el poblado,0
+laureles las acacias,0
+el poblado loma del campestre,0
+el poblado loma del tesoro,0
+la almeria,0
+el poblado suroriente,0
+calasanz noroccidente,0
+simon bolivar medellin,0
+belencito betania ,0
+castropol medellin,0
+las lomas i,0
+san joaquin,0
+barrio belen la gloria,0
+bosques de san pablo,0
+los balsos n 2,0
+la alpujarra,0
+colombia,0
+los balsos n 1,0
+cuarta brigada,0
+nueva villa de aburra,0
+alto las palmas,0
+poblado via las palmas,0
+poblado lalinde,0
+abadia,0
+los balsos el poblado,0
+belen guayabal la mota,0
+loma los parra,0
+la dalia,0
+laureles parque,0
+san javier medellin,0
+villahermosa,0
+calasanz occidente,0
+el poblado san lucas,0
+laureles conquistadores,0
+villa de aburra,0
+laureles las acasias,0
+santa gema,0
+occidente belen loma de los bernal,0
+patio bonito el poblado,0
+el poblado el campestre,0
+estadio el velodromo,0
+lomas de los bernal,0
+poblado balsos,0
+poblado la concha,0
+medellin las palmas,0
+belen veleros,0
+las santas el poblado,0
+laureles segundo parque,0
+sucre boston,0
+el poblado loma de los balsos,0
+ceylan,0
+santamaria de los angeles el poblado,0
+naranjal,0
+occidente conquistadores,0
+3 laureles la america estadio conquistadores castillas pedregal tricentenario bello,0
+el poblado sector vizcaya,0
+poblado alejandria,0
+belen rodeo,0
+poblado los balsos,0
+edificio galicia castropol,0
+poblado la frontera,0
+torre los angeles,0
+el poblado milla de oro,0
+las lomas 2,0
+sur oriente el tesoro,0
+castropol parte baja,0
+los conquistadores,0
+sur oriente,0
+sur loma del indio,0
+belen la palma,0
+sur poblado santa maria de los angeles,0
+poblado las palmas,0
+envigado ,0
+belen granada,0
+villa del aburra,0
+sur poblado,0
+campo valdez,0
+belen alpes,0
+nogal,0
+poblado el campestre,0
+san giorgio 3,0
+belen los molinos,0
+nororiente campo valdes,0
+loreto,0
+occidente simon bolivar,0
+poblado parte baja,0
+oriente,0
+loma de benedictinos,0
+el velodromo occidente,0
+occidente laureles,0
+belen loma de los bernal,0
+occidente la castellana,0
+occidente belen la palma,0
+edificio bariloche,0
+nutibara,0
+belen la castellana,0
+miravalle,0
+miraflores,0
+poblado el castillo,0
+sur el poblado,0
+santa mara de los ngeles,0
+poblado el diamante,0
+santa maria,0
+occidente estadio,0
+laureles sector santa teresita,0
+belen malibu,0
+la milla de oro,0
+laureles simon bolivar,0
+alejandria poblado medellin,0
+el poblado los balsos,0
+poblado loma de los parra,0
+beln san bernardo,0
+via linares,0
+la abadia,0
+laureles la nutibara,0
+sucre,0
+el poblado la linde,0
+belen miravalle,0
+parques del rio,0
+villa de aburra,0
+occidente los colores,0
+la villa,0
+belen malibu,0
+envigado las vegas cerca a jumbo,0
+escobero,0
+manrique central nro 1,0
+lasa vegas,0
+sur poblado san lucas,0
+zuñiga,0
+sur poblado castropol,0
+bosques de zuñiga,0
+occidente belen rosales,0
+occidente calasanz,0
+los balsos poblado,0
+nororiente manrique,0
+san benito,0
+occidente carlos e restrepo,0
+poblado ciudad del rio,0
+loma de alejandria,0
+calazanz,0
+santa maria de los angeles poblado,0
+zona centro,0
+centro de medellin,0
+poblado clinica medellin,0
+barrio suramericano estadio,0
+santa cruz,0
+barrio triste,0
+los angeles,0
+buenos aires medellin,0
+los olivos,0
+señorial,0
+via marinilla,0
+el poblado santa maria de los angeles,0
+la asomadera,0
+simon bolivar medellin,0
+laureles santa teresita,0
+edificio turkeza,0
+calasanz parte baja,0
+cuidad del rio,0
+l a america,0
+conjunto residencial uno sur,0
+robledo el diamante,0
+el poblado clinica medellin,0
+balsos,0
+la superior,0
+el caampestre,0
+el tesoro parte alta el poblado,0
+ed el patio,0
+la playa en el centro de medellin,0
+el diamante ii,0
+la aldea,0
+los angeles,0
+monteclaro,0
+el campestre poblado,0
+poblado transversal superior,0
+laureles bolivariana,0
+poblado tomatera,0
+centro centro,0
+laureles av nutibara,0
+san julian,0
+el poblado la tomatera,0
+pobladp provenza,0
+la santas,0
+el poblado la inferior,0
+los gonzalez el poblado,0
+loma de san julian el poblado,0
+laureles la camelia,0
+las palmas el poblado,0
+el poblado patio bonito,0
+poblado los parra,0
+centro prado,0
+obelisco,0
+poblado la tomatera,0
+mallorca,0
+los balsos ii,0
+el poblado sur,0
+envigado zuñiga,0
+el inter,0
+el bosque,0
+aguacatala 2,0
+poblado campestre drive inn,0
+velodromo los olivos,0
+alejandria el poblado,0
+las lomas nro 1,0
+poblado alto,0
+el campetre la toja,0
+robledo pilarica,0
+sta maria de los angeles,0
+poblado loma los balsos,0
+laureles sector pepe ganga,0
+envigado ayura,0
+san lucas medellin,0
+poblado lv,0
+cumbres,0
+envigado loma del chocho,0
+el esmeraldal,0
+los parras,0
+bosques de zuiga,0
+cantagirone due,0
+el poblado oviedo,0
+edificio molinos del marquez,0
+la linde poblado,0
+montesori,0
+astorga parque del poblado,0
+calasania,0
+sabaneta loma san jose,0
+las brisas,0
+belen rodeo alto,0
+san german tierra firme,0
+guayabal comuna 15,0
+santa maria itagui,0
+caunces de oriente,0
+boston centro,0
+villas del sol,0
+asomadera 1,0
+el poblado loma de san julian,0
+floresta pradera,0
+loma de san julian,0
+belen loma los bernal,0
+pilarica noroccidente,0
+barichara,0
+medelln loma del indio,0
+loma el indio,0
+poblado frontera,0
+loma los bernales,0
+palmitas,0
+los colores noroccidente,0
+doce de octubre,0
+barrio enciso,0
+cabañas,0
+asomadera i,0
+rodeo alto la hondonada,0
+manrique central i,0
+los alcazares,0
+comuna 13 san javier,0
+san isidro,0
+estacion villa,0
+las playas,0
+la mansion,0
+manrique central n  1,0
+comuna 12 la america,0
+bermejal los alamos,0
+colon,0
+belencito,0
+niquia quitasol,0
+sabaneta las lomitas,0
+rionegro,0
+santa monica i,0
+sabaneta la doctora,0
+centro oriental,0
+parque de belen,0
+flor,0
+itagui suramerica,0
+itagi,0
+calazania,0
+boyaca,0
+santa maria de los angeles,0
+la calendaria,0
+suramerica itagui,0
+sur occidente,0
+niquia,0
+bello niquia,0
+tierra firme,0
+loma del indio el poblado,0
+aldea,0
+santa ana,0
+llano grande,0
+copacabana,0
+nueva villa de aburra,0
+ferrini,0
+copacabana antioquia,0
+sur san diego,0
+civita,0
+calasanz mall santa ana,0
+poblado loma del indio,0
+la floresta occidente,0
+cordoba,0
+poblado sector manila,0
+el poblado loma el indio,0
+barrio perez bello ant,0
+bello guasimalito ,0
+la estrella ,0
+san javier no 1,0
+san german robledo,0
+via autopista medellin bogota,0
+las americas,0
+itagui,0
+las palmas country club el poblado,0
+santa maria,0
+san antonios de prado,0
+barrio perez bello,0
+centro bombona,0
+laureles simon bolivar,0
+barrio trinidad,0
+itagui ,0
+occidente la floresta,0
+belen fatima,0
+intercontinental,0
+sabaneta medellin antioquia,0
+oriente milagrosa,0
+la consolata,0
+rodeo,0
+robledo fuente clara,0
+manrique las esmeraldas,0
+los colores occidente,0
+palmas,0
+retiro,0
+altamira robledo,0
+belen la nubia,0
+el rincon,0
+poblado loma de los gonzalez,0
+la cuenca,0
+el porvenir ,0
+belalcazar,0
+belen los alpinos,0
+unidad aura,0
+pablo tobon uribe,0
+la paz,0
+buenos aires 8 de marzo,0
+alto de palmas,0
+bombona nro 1,0
+palenque,0
+centro prado centro,0
+robledo la pola,0
+santa ines,0
+norteamerica,0
+robledo bello horizonte,0
+la mina,0
+san jose,0
+sector ces,0
+loma del barro,0
+calasanz medellin,0
+la mansion,0
+la inmaculada,0
+envigado esmeraldal,0
+edificio square,0
+mirador bello,0
+la a merica,0
+pradito,0
+santa monica 2,0
+altas de las palmas,0
+suramericana estadio medellin,0
+laureles la castellana,0
+loma del indio palmas,0
+las esmeraldas,0
+la 80,0
+laureles nogal medellin,0
+centroccidental conquistadores,0
+los colegios  rionegro,0
+santa monica ii,0
+sur oriente park 10,0
+el castillo poblado,0
+perpetuo socorro,0
+comuna 9 buenos aires,0
+comuna 5 castilla,0
+zona rosa,0
+el nogal los almendros,0
+barrio facultad de minas,0
+las lomas n1,0
+cataluña,0
+tejelo,0
+los cerros el vergel,0
+toscana,0
+torres del rio,0
+robledo mirador de pilarica,0
+america danubio,0
+prado centro medellin,0
+medellin la frontera,0
+barrio niza,0
+laureles santa gema,0
+belen vicuña,0
+av las palmas,0
+f gomez,0
+loma los balsos,0
+florida nueva occidente,0
+castellana occidente,0
+avenida del poblado,0
+transversal superior el poblado,0
+sabaneta ,0
+poblado balsos 2,0
+loma del indio suroriente,0
+belen nogales,0
+laureles mall laureles,0
+san diego el poblado,0
+bosketo,0
+belen vicuña,0
+el poblado loma de encierro,0
+laureles almeria,0
+itagui santamaria ,0
+santa monica 2,0
+sandiego,0
+sur oriente san diego,0
+envigado muga ,0
+tocasna,0
+villahermos,0
+el portal,0
+calasanz la floresta,0
+belen porvenir,0
+villa de la aburra,0
+altos de poblado,0
+almerias,0
+belen malibu,0
+belen las margaritas,0
+belen las violetas,0
+belen fatima malibu,0
+belen la inmaculada,0
+el carrusel,0
+el poblado sector la aguacatala,0
+ciudad del rio poblado,0
+el poblado los yarumos,0
+rafael uribe uribe,0
+poblado santa maria de los angeles,0
+medellin pedregal,0
+calle larga,0
+municipio rio negro,0
+el poblado lalinde,0
+itagi,0
+belen malibu 2,0
+almeria,0
+occidente naranjal,0
+barrio palmas,0
+juan 23,0
+centro salvador,0
+occidente pilarica,0
+san mateo,0
+bello navarra,0
+el chocho,0
+loma del chocho,0
+las orquideas,0
+san jeronimo,0
+floresta parque,0
+alto de las flores,0
+otraparte,0
+poblado loma marianito,0
+las cabañas,0
+los balsos il,0
+la frontera con la inferior,0
+belen nogal,0
+los gonzales,0
+poblado los balsos n 1,0
+centro la candelaria,0
+san michel,0
+aurora de la libertad,0
+loma cola del zorro,0
+comuna 10 la candelaria,0
+las lomas ii,0
+la playa,0
+el poblado sector bagatela,0
+poblado balsos con la inferir,0
+loma del tesoro,0
+el tesoro poblado medellin,0
+viscaya,0
+oviedo el poblado,0
+la frontera poblado,0
+sur poblado la calera,0
+poblado sector oviedo,0
+poblado entre los balsos y los gonzalez,0
+loma de los gonzales,0
+el poblado astorga,0
+poblado cola del zorro,0
+los gonzalez,0
+poblado loma de los balsos,0
+loma de los balsos superior,0
+parte alta de patio bonito,0
+campestre,0
+loma el campestre,0
+poblado loma lalinde,0
+laureles medellin,0
+el tesoro poblado,0
+el poblado las palmas,0
+transversal intermedia,0
+el poblado las lomas,0
+san javier el departamento,0
+poblado las lomas 1,0
+provincia,0
+las lomas n 1,0
+occidente florida nueva,0
+poblado interlomas,0
+sur poblado la frontera,0
+poblado las santas,0
+san joaquin lv,0
+poblado sta maria de los angeles,0
+sur oriente oviedo,0
+el poblado alejandria,0
+poblado loma del encierro,0
+marymount,0
+balsos parte alta,0
+sector campestre,0
+el poblado san fernando,0
+el tesoro el poblado,0
+edificio cinqueterre,0
+santa clara,0
+poblado oa,0
+el poblado la calera,0
+ed cantagirone due,0
+loma los parras,0
+andalucia la francia,0
+bosque verde,0
+parque de las chimeneas,0
+sector 7 lunas luna del mar,0
+santa monica medellin,0
+santa margarita,0
+robledo pajarito medellin,0
+la aurora,0
+la campiña,0
+picacho,0
+caldas,0
+tropico,0
+carmelo,0
+robledo villa sofia,0
+metropolitano,0
+zona industrial 7,0
+caldas antioquia,0
+el pedregal,0
+camponuevo,0
+las estancias,0
+altos de las palmas,0
+santa rita san antonio de prado,0
+buenos aires suroriente,0
+villa loma san antonio de prado ,0
+popular 2,0
+ed mejias,0
+robledo aurora,0
+santo domingo savio nro 1,0
+el progreso,0
+zona norte,0
+robledo santa maria,0
+occidente robledo,0
+las margaritas,0
+moravia,0
+robledo villa sofa,0
+robledo las margaritas,0
+san miguel,0
+parque recidencial los guaduales,0
+8 de marzo,0
+manchester,0
+simesa,0

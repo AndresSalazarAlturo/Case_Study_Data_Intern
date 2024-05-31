@@ -1,0 +1,9 @@
+Estrato,Renta
+Estrato 3,734
+Estrato 6,2259
+Estrato 4,868
+Estrato 5,1247
+Estrato 2,92
+Estrato 0,5
+Estrato 1,6
+Campestre,1

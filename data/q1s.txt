@@ -1,0 +1,7 @@
+Region,Venta
+NorOriente,494
+SurOriente,5956
+Occidente,2965
+SurOccidente,1336
+NorOccidente,1440
+Centro,445

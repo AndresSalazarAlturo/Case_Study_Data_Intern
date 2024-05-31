@@ -1,0 +1,11 @@
+Barrio,Renta
+belen altavista,22.0
+aures,30.0
+calasanz parte alta,30.0
+belen san bernardo,32.0
+la pola,32.0
+campo valdes,34.84615384615385
+el rincon,35.0
+lorena,35.0
+san cristóbal,36.0
+barichara san antonio de prado,38.0

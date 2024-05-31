@@ -1,0 +1,11 @@
+Barrio,Venta
+los balsos,8500909442.91689
+ciudad del río,4313037500.0
+estadio,4079291151.5151515
+castilla,2782360655.7377048
+provincia,2750000000.0
+balsos parte alta,2500000000.0
+viscaya,2350000000.0
+el tesoro el poblado,2350000000.0
+los colores,2096416582.2332268
+los balsos nro 2,1946666666.6666667

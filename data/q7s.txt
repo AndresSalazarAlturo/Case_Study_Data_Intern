@@ -1,0 +1,11 @@
+Barrio,Venta
+andalucia la francia,10.0
+metropolitano,28.0
+popular 2,30.0
+la pastora,32.0
+el pedregal,35.0
+manchester,37.0
+zona industrial 7,38.0
+barichara san antonio de prado,39.0
+buenos aires suroriente,39.0
+belen la gloria,40.0
